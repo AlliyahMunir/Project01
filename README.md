@@ -51,8 +51,7 @@ This project has been created for the people with a sweet tooth. Alliyah's cupca
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Technology 1-Customer's have the ability to call the bakery one or more days ahead of time if they would like an order of 30 or more cupcakes at once. This is due to the fact that quick orders cannot be sent out if the quantity of a customers is overbearing. We appreciate your understanding.
 
 [Back To The Top](#Alliyah's-Speedy-Bakery)
 
@@ -101,6 +100,6 @@ SOFTWARE.
 ## Author Info
 
 - Gmail - [@alliyahmunir@gmail.com](https://gmail.com/alliyahmunir)
-- Phone- [Alliyah Munir](626-671-2156)
+- Phone- [(626-671-2156)]
 
 [Back To The Top](#Alliyah's-Speedy-Cupcakes)
