@@ -1,4 +1,4 @@
-Project #1
+ALLIYAH'S SPEEDY BAKERY PROJECT1
 ## Table of contents
 * [Alliyah's Speedy Bakery Menu](#general-info)
 * [Minimum and Maximum Amount of Cupcakes Customer Can Buy on the Spot](#technologies)
