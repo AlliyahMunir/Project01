@@ -24,8 +24,9 @@ $ npm start
 
 # Alliyah's Speedy Cupcakes
 
-![Project Image]
-(file:///C:/Users/Alliyah%20Munir/Downloads/ProjectLogo.pdf)
+![Project Logo]
+
+file:///C:/Users/Alliyah%20Munir/Downloads/ProjectLogo.pdf
 
 
 > This is a ReadMe for Alliyahs new cupcake bakery, called "Alliyah's Speedy Cupcakes"
