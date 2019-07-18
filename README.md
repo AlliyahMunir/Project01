@@ -1,28 +1,34 @@
 ALLIYAH'S SPEEDY CUPCAKES PROJECT1
 ## Table of contents
-* [Alliyah's Speedy Bakery Menu](#general-info)
-* [Minimum and Maximum Amount of Cupcakes Customer Can Buy on the Spot](#technologies)
-* [Setup](#setup)
+* General Information
+* Flowchart
+* Alliyah's Speedy Cupcake Hours
+* Alliyah's Homemade Logo
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [References](#references)
+- [License](#license)
+- [Author Info](#author-info)
 
 ## General info
 This project has been created for the people with a sweet tooth. Alliyah's cupcakes are filled with flavor whether it be coffee, carrot, or simple chocolate. Furthermore, these cupcakes have the ability to bring family and friends together with the binding of a cupcake. 
 	
-## Technologies
-Project is created with:
-* java version: 12.3
+## FlowChart
+A general process on how customer service will take place:
+file:///C:/Users/Alliyah%20Munir/Desktop/Flowchart.pdf
+
 	
-## Setup
-To run this project, install it locally using npm:
+## Alliyah's Speedy Cupcakes Hours
+   Monday: 8:00 AM - 10:00 PM
+  Tuesday: 7:00 AM - 10:00 PM
+Wednesday: 7:00 AM - 11:00 PM
+ Thursday: 7:00 AM - 11:00 PM
+   Friday: Open 24 hours
+ Saturday: Open 24 hours
+   Sunday: 10:00 AM - 9:00 PM
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
 
-
-
-# Alliyah's Speedy Cupcakes
+# Alliyah's Homemade Logo
 
 ![Project Logo]
 
@@ -33,32 +39,8 @@ file:///C:/Users/Alliyah%20Munir/Downloads/ProjectLogo.pdf
 
 ---
 
-### Table of Contents
-You're sections headers will be used to reference location of destination.
-
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
-- [Author Info](#author-info)
-
----
-
-## General Information
-
-This project has been created for the people with a sweet tooth. Alliyah's cupcakes are filled with flavor whether it be coffee, carrot, or simple chocolate. Furthermore, these cupcakes have the ability to bring family and friends together with the binding of a cupcake. 
-	
-
-#### Technologies
-
-- Technology 1-Customer's have the ability to call the bakery one or more days ahead of time if they would like an order of 30 or more cupcakes at once. This is due to the fact that quick orders cannot be sent out if the quantity of a customers is overbearing. We appreciate your understanding.
-
-[Back To The Top](#Alliyah's-Speedy-Bakery)
-
----
-
 ## How To Use
-The way that this program is set up, allows the user to view the menu for the cupcakes. When the cupcakes menu is displayed the user can choose the ingredients they would like in their cupcake. Furthermore, they will be asked the quantity of cupcakes they will be buying and will be told the wait time. 
+The way that this program is set up, allows the user to view the menu for the cupcakes after the waiter "hands" it to them. When the cupcakes menu is displayed the user can choose the ingredients they would like in their cupcake. Furthermore, they will be asked the quantity of cupcakes they will be buying and will be told the wait time. Eventually, the user will be asked to fill out a survey in order for the bakery to make any improvements that are needed. 
 
 
 
@@ -98,8 +80,9 @@ SOFTWARE.
 ---
 
 ## Author Info
-
+- Location - 1480 East NorthWood Avenue Perris, CA 92570
 - Gmail - [@alliyahmunir@gmail.com](https://gmail.com/alliyahmunir)
-- Phone- [(626-671-2156)]
+- Phone for Big Caterings - [(626-661-2386)]
+-Have any questions? Contact Us, We are here to help you!
 
 [Back To The Top](#Alliyah's-Speedy-Cupcakes)
