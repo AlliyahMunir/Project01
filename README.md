@@ -1,9 +1,9 @@
 ALLIYAH'S SPEEDY CUPCAKES PROJECT1
 ## Table of contents
 * General Information
-- [Flowchart] (#Flowchart)
-- [Alliyah's Speedy Cupcake Hours] (#Alliyah's-Speedy-Cupcake-Hours)
-- [Alliyah's Homemade Logo] (#Alliyah's-Homemade-Logo)
+- [Flowchart](#Flowchart)
+- [Alliyah's Speedy Cupcake Hours](#Alliyah's-Speedy-Cupcake-Hours)
+- [Alliyah's Homemade Logo](#Alliyah's-Homemade-Logo)
 - [How To Use](#how-to-use)
 - [References](#references)
 - [License](#license)
