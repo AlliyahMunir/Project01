@@ -9,6 +9,8 @@ ALLIYAH'S SPEEDY CUPCAKES PROJECT1
 - [License](#license)
 - [Author Info](#author-info)
 
+> This is a ReadMe for Alliyahs new cupcake bakery, called "Alliyah's Speedy Cupcakes"
+
 ## General info
 This project has been created for the people with a sweet tooth. Alliyah's cupcakes are filled with flavor whether it be coffee, carrot, or simple chocolate. Furthermore, these cupcakes have the ability to bring family and friends together with the binding of a cupcake. 
 	
@@ -29,12 +31,9 @@ Wednesday: 7:00 AM - 11:00 PM
 
 # Alliyah's Homemade Logo
 
-![Project Logo]
-
 file:///C:/Users/Alliyah%20Munir/Downloads/ProjectLogo.pdf
 
-
-> This is a ReadMe for Alliyahs new cupcake bakery, called "Alliyah's Speedy Cupcakes"
+Copy and Paste the link above to check it out! 😃
 
 ---
 
