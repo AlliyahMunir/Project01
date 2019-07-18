@@ -1,0 +1,21 @@
+//Now, we will use array initializers to inform the customer the amount
+//of cupcakes the customer can order on the spot. This is to make sure the
+//customers recieve quick service while being reasonable with the amount of
+//cupcakes they will order without early notice. 
+class ProjectArray {
+    public static void main(String args[]) {
+    int nums[] = { 1, 10, 5, 25, 30,
+                   45, 46, 49, 17, 50 };
+    int min, max;
+    int i;
+     i=1;
+     i++; 
+ 
+    min = max = nums[0];
+    {
+     if(nums[i] < min) min = nums[i];
+     if(nums[i] > max) max = nums[i];
+    }
+    System.out.println("The min number of cupcakes you can order on the spot is " + min + " and max is " + max);
+   }
+}
