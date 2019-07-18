@@ -79,7 +79,7 @@ SOFTWARE.
 
 ## Author Info
 - Location - 1480 East NorthWood Avenue Perris, CA 92570
-- Gmail - [@alliyahmunir@gmail.com](https://gmail.com/alliyahmunir)
+- Gmail - [alliyahmunir@gmail.com](https://gmail.com/alliyahmunir)
 - Phone for Big Caterings - [(626-661-2386)]
 -Have any questions? Contact Us, We are here to help you!
 
