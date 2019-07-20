@@ -1,4 +1,5 @@
- //Declare an interface in order for the customer
+//Compile with javac JavaInterfaceExample.java 
+//Declare an interface in order for the customer
 //to give a name for the order. 
   interface IntExample{ 
 
