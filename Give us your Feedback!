@@ -1,4 +1,5 @@
-// A short package demonstration.
+//Compile with javac LookDemo.java
+//A short package demonstration.
 //This program is created so that the customers are able to give us feedback.
 //This program has the ability to do this due to public access in order for
 //the package to be used by others. 
