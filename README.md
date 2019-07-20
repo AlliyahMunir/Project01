@@ -1,7 +1,6 @@
 ALLIYAH'S SPEEDY CUPCAKES PROJECT1
 ## Table of contents
 - [General Information](#GeneralInformation)
-- [Flowchart](#Flowchart)
 - [Alliyah's Speedy Cupcake Hours](#Alliyah's-Speedy-Cupcake-Hours)
 - [Alliyah's Homemade Logo](#Alliyah's-Homemade-Logo)
 - [How To Use](#how-to-use)
@@ -13,10 +12,6 @@ ALLIYAH'S SPEEDY CUPCAKES PROJECT1
 
 ## General info
 This project has been created for the people with a sweet tooth. Alliyah's cupcakes are filled with flavor whether it be coffee, carrot, or simple chocolate. Furthermore, our natural baked goods have the ability to bring family and friends together with the binding of a cupcake. 
-	
-## FlowChart
-A general process on how customer service will take place:
-file:///C:/Users/Alliyah%20Munir/Desktop/Flowchart.pdf
 
 	
 ## Alliyah's Speedy Cupcakes Hours
