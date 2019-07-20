@@ -1,3 +1,4 @@
+//Compile with javac Project1.java
 // Introduce String. 
 import java.util.Scanner;
 class Project1 {
