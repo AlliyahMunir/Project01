@@ -1,3 +1,4 @@
+//Compile with javac JavaInterfaceDeliver.java
 //Declare an interface in order for the customer
 //to let the employee know how they would like to receive their order 
   interface IntDeliver{ 
