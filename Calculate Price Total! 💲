@@ -1,3 +1,4 @@
+//compile with javac ProjectOperator&ClassDemo.java
 import java.util.Scanner;
 //A program that will use operator and classes
 class ProjectOperator&Class {
