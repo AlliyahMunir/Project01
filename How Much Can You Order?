@@ -1,3 +1,4 @@
+//Compile with javac ProjectArray.java
 //Now, we will use array initializers to inform the customer the amount
 //of cupcakes the customer can order on the spot. This is to make sure the
 //customers recieve quick service while being reasonable with the amount of
