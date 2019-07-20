@@ -1,3 +1,4 @@
+//Compile with javac ProjectLoop.java
 //In this part, the program will ask the user the quantity of
 //cupcakes they would like using the while loop.
 import java.util.Scanner;
