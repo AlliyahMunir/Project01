@@ -1,3 +1,4 @@
+//Compile with javac CupcakeSpecialDemo.java
 // Add more constructors to CupcakeSpecial.
 //This program is created to allow the user to become informed of the specials
 //at Alliyah's Speedy Bakery. Currently, this menu is only for August and display the 
