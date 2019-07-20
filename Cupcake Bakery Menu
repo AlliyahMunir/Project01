@@ -1,3 +1,4 @@
+//Compile with javac ProjectSwitch.java
 //Now we will let the customer order by displaying the menu.
 //This will be done using the switch statement.
      class ProjectSwitch {
